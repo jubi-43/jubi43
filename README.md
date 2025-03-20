@@ -1,7 +1,10 @@
 # jubi43
 Hello Professionals, This is my profile.
 
-I am looking for Data Analyst role.
+I am looking for Data Analyst role. I have 5+ years of experience in HR DOMAIN.
 
 Completed SQL, PYHTON BASIC, STATISTIC R PROGRAMMING BASIC, POWERBI
+DID A SMALL PROJECT IN SQL MANAGEMENT STUDIO.
+LEARNED HOW TO CLEAN DATA IN PYTHON - JUPYTER AND GOOGLE COLAB
+USED VISUAL STUDIO CODE FOR UPLOADING DATA IN HTML FORMAT
 
